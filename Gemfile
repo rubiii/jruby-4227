@@ -2,4 +2,4 @@ source :rubygems
 
 gem 'sinatra'
 gem 'warbler'
-gem 'jruby-jars', '1.5.6'
+gem 'jruby-jars', '1.6.2'
